@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Victor Olet"
   avatar           : "profile.png"
-  bio              : " A Chemical Engineering / Computational Chemistry PhD Candidate"
+  bio              : "A Chemical Engineering / Computational Chemistry PhD Candidate"
   location         : "Perth, Australia"
-  employer         :
+  employer         : "Curtin University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "victor.olet@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hekima31"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/victorolet/"
+  linkedin         : "victorolet"
   orcid            : "http://orcid.org/0000-0002-9201-7568"
   pinterest        :
   soundcloud       :
