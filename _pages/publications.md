@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-```
+<!-- ```
 \documentclass{article}
 \begin{document}
 Look at this text,
@@ -24,5 +24,12 @@ This text is processed in paragraph mode, and then becomes an indivisible \TeX{}
 \end{minipage}
 how strange!
 \end{document}
-\end{document}
+\end{document} -->
+
+
+```r
+norm <- function(x) {
+  sqrt(x%*%x)
+}
+norm(1:4)
 ```
