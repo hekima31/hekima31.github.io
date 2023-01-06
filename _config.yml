@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Victor Olet"
   avatar           : "profile.png"
-  bio              : "A Chemical Engineering / Computational Chemistry PhD Candidate"
+  bio              : "A Chemical Engineering / Computational Chemistry PhD Candidate @ Curtin University | Sessional Academic @ Curtin University"
   location         : "Perth, Australia"
-  employer         : "Curtin University"
+  employer         : # "Curtin University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yOgGsC4AAAAJ&hl=en"
   email            : "victor.olet@outlook.com"
@@ -106,7 +106,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-9201-7568"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/12203192/learner254
   steam            :
   tumblr           :
   twitter          : "victorolet"
