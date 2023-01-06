@@ -16,7 +16,3 @@ author_profile: true
 {% endfor %}
 
 
-
-```
-\alpha
-```
