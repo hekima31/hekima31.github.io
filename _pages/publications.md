@@ -15,5 +15,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
-Testing 1 2 3
