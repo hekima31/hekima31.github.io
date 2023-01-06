@@ -27,9 +27,6 @@ how strange!
 \end{document} -->
 
 
-```r
-norm <- function(x) {
-  sqrt(x%*%x)
-}
-norm(1:4)
+```
+\alpha
 ```
