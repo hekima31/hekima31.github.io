@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Heat Transfer Lab Demonstrator"
 collection: teaching
-type: "Undergraduate course"
+type: "Laboratory class"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Curtin University, Department of Chemical Engineering"
+date: 2021-01-01
 location: "City, Country"
 ---
 
