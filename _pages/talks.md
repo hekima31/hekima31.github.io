@@ -41,7 +41,7 @@ Presentation, blogs and talks
 
 Associations
 
-|   |   |    
+|  Date | Title  |    
 |---|---|---|---|
 |  November 2022 | Awarded The Microsoft Learn Student Ambassador Mentor badge ([badge](https://www.credly.com/earner/earned/badge/a5ec6db0-e12a-44c2-b65a-0b9659728677))  |   
 | August 2022  | Nominated to Gold Microsoft Learn Student Ambassador ([Certificate]())   |
