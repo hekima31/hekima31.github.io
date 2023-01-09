@@ -45,9 +45,11 @@ Leadership and community engagement
 |December 2022| Won a lightning talk competition organised by the Microsoft Student Accelerator ([LinkedIn post](https://www.linkedin.com/posts/michellesandford_powerpoint-xbox-activity-7006062526257905664-6lpm?utm_source=share&utm_medium=member_desktop))
 |  November 2022 | Awarded The Microsoft Learn Student Ambassador Mentor badge ([badge](https://www.credly.com/earner/earned/badge/a5ec6db0-e12a-44c2-b65a-0b9659728677))  |   
 | August 2022 - Present  | Promoted to Gold Microsoft Learn Student Ambassador ([certificate]())   |
-| April 2022 - Present  | The Carpentries Instructor<br>Helper for the 2022 Research Bazaar(ResBaz) - Helper for the courses: [The Unix Shell](https://swcarpentry.github.io/shell-novice/) and  [Version Control](https://carpentries-incubator.github.io/git-novice-branch-pr/)  |   
+| April 2022 - Present  | The Carpentries Instructor<br>Helper for the 2022 Research Bazaar(ResBaz) - Helper for the courses: [The Unix Shell](https://swcarpentry.github.io/shell-novice/) and  [Version Control](https://carpentries-incubator.github.io/git-novice-branch-pr/)  | 
+|April 2022| Recevied the Microsoft Student Accelerator Hero badgers due to being an active member of the Microsoft community ([badge]())
 |  April 2022 - Present | CSIRO STEM Professional<br>Worked with Penrhos College science department in designing experiments to teach the concepts of calibration and serial dilution ([LinkedIn post](https://www.linkedin.com/posts/victorolet_as-part-of-the-csiro-stem-professionals-in-activity-7005441115394891776-ecXs?utm_source=share&utm_medium=member_desktop))  |   
 |  January 2022 |  Awarded John Curtin Leadership Academy Badge (Badge) <br> Awarded for successful participation in John Curtin Leadership Program |
 |November 2021| Raised $2583.90 for Borderless Friendships Western Australia ([BFWA](https://www.borderlessfriendship.org/)) as part of the John Curtin Leadership Academy program ([LinkedIn post](https://www.linkedin.com/posts/victorolet_what-a-thrill-it-was-to-take-part-in-the-activity-6877095367767298048-fRAO?utm_source=share&utm_medium=member_desktop))
 |July 2021| Promoted to Beta Microsoft Student Learn Ambassador ([certificate]()) 
+|September 2020| Promoted to Alpha Microsoft Student Learn Ambassador ([certificate]())
 |August 2020| Accepted into the Microsoft Learn Student Ambassador Program ([certificate]())   
