@@ -12,6 +12,8 @@ author_profile: true
 {% endfor %} -->
 
 
+I teach mainly in the Chemical engineering and First Year engineering department - nurturing my science communication interest both in a technical and non-technical capacity respectively.
+
 | Date  | Course  | Institution  | Teaching Duties  |
 |---|---|---|---|
 |  February - May 2023 | Engineering Communication ([INDE1001](https://www.curtin.edu.au/study/offering/unit-ug-engineering-foundations-principles-design-and-communication--inde1001/))  | Curtin University - Engineering First Year ([EFY](https://engsci.curtin.edu.my/engineering-first-year-efy-2/))   |  Conduct tutorial sessions <br> Course work marker <br>  <br> Lecturer(s): [Dr. Kristoffer  McKee](https://staffportal.curtin.edu.au/staff/profile/view/kristoffer-mckee-04c28d3f/) |
