@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Achievements and engagement"
+permalink: /engagement/
 author_profile: true
 ---
 

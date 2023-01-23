@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: #"Bio"
+title: "Victor Olet"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
