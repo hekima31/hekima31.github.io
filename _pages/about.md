@@ -19,6 +19,8 @@ I have explored my interest in science communication by partnering with high sch
 
 I am also passionate about technology and its incorporation into science and other sectors. To this end, I enrolled into the [Microsoft Learn Student Ambassador Program](https://studentambassadors.microsoft.com/en-US/) to enhance my digital literacy and community building skills. As a result, I have incorporated computational chemistry into my research work, and I am currently looking to understand and incorporate Machine Learning approaches in the near future.  As an ambassador, I also take part in various Microsoft Student Initiatives, with the end of goal of enhancing science research through technology.
 
+Due to my active contributions to the Windows team through the Windows Insider Program, I was awarded the 2023 Windows Insider [Most Valuable Professional](https://mvp.microsoft.com/) Award, which allows me to explore technology communication through the Windows platform.
+
 
 
 
