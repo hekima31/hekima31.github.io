@@ -21,7 +21,7 @@ Academic Awards
 
 | Date  | Award  | Affiliation  |
 |---|---|---|---|
-|2023| Nominated to Windows Insider Most Valuable Professional ([MVP](https://mvp.microsoft.com/)) | Microsoft
+|2023| Selected as Windows Insider Most Valuable Professional ([MVP](https://mvp.microsoft.com/)) ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7021621009208279041/)) | Microsoft
 | 2020  | Doctoral Scholarship Award <br> Recevied the Curtin International Postgraduate Research Scholarship ([CIPRS](https://www.scholarshipsads.com/curtin-international-postgraduate-research-scholarships-ciprs-curtin-university-australia/)) and Research Stipend Scholarships    |  PhD student at Curtin University 
 | 2017  | Vice Chancellor's List<br>Awarded membership to the [Vice Chancellor’s list](https://www.curtin.edu.au/students/experience/vice-chancellors-list/) for academic performance in the top 1% in all undergraduate disciplines.  | Honours' student at Curtin University  | 
 |2014-2017| Received  letters of commendation for academic performance  in 6 out of 8 semesters | Bachelors' student at Curtin University
