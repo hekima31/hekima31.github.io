@@ -16,8 +16,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
+
+    - title: "CV"
+    url: https://studentcurtinedu-my.sharepoint.com/:b:/g/personal/18109704_student_curtin_edu_au/EVFR_k4Ac_NEmdBZX_mSg9ABDEJoy3KJFWN5znedxoNIPw?e=OWQ6Uh
     
   # - title: "Guide"
   #   url: /markdown/
