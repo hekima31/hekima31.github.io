@@ -43,6 +43,7 @@ Leadership and community engagement
 
 |  Date | Title  |    
 |---|---|---|---|
+|January 2023 | Selected to be a Windows Insider MVP, a tremendous platform for technology communication to students and the rest of the community.
 |December 2022| Won a lightning talk competition organised by the Microsoft Student Accelerator ([LinkedIn post](https://www.linkedin.com/posts/michellesandford_powerpoint-xbox-activity-7006062526257905664-6lpm?utm_source=share&utm_medium=member_desktop))
 |  November 2022 | Awarded The Microsoft Learn Student Ambassador Mentor badge ([badge](https://www.credly.com/earner/earned/badge/a5ec6db0-e12a-44c2-b65a-0b9659728677))  |   
 | August 2022 - Present  | Promoted to Gold Microsoft Learn Student Ambassador ([certificate]())   |
