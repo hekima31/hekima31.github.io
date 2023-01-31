@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Please access my CV through this [link](https://studentcurtinedu-my.sharepoint.com/:b:/g/personal/18109704_student_curtin_edu_au/EVFR_k4Ac_NEmdBZX_mSg9ABDEJoy3KJFWN5znedxoNIPw?e=OWQ6Uh)
+
 <!-- {% include base_path %}
 
 Education
