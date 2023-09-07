@@ -13,7 +13,7 @@ I am a science all-rounder, passionate about science literacy and communication.
 
 <!-- I undertake a teaching role -  -->
 
-To foster interest in the chemical sciences amongst my peers and the next generation of students, I join the [American Chemical Society's Australian Student Chapter](https://www.acs.org/education/students/college/studentaffiliates.html#:~:text=ACS%20Student%20Chapters%20ACS%20student%20chapters%20are%20organizations,college%20experience%20and%20prepare%20them%20for%20successful%20careers.) as a Committee member to promote chemical science awareness and foster the links between industry, academia and prospective students.
+To foster interest in the chemical sciences amongst my peers and the next generation of students, I have joined the [American Chemical Society's Australia Chapter](https://www.acs.org/global/international/chapters/australia.html) as Treasurer to promote chemical science awareness and foster the links between industry, academia and prospective students.
 
 I have explored my interest in science communication by partnering with high schools around Western Australia through [CSIRO's STEM Professionals program](https://www.csiro.au/en/Education/Programs/STEM-Professionals-in-Schools), where we design experiments to help students understand fundamental science concepts, preparing the next generation for the challenges of tomorrow.
 
